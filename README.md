@@ -8,7 +8,7 @@ Vue.js Jdenticon 적용
 ## 내용
 - `index.html` 단일 파일로 구성합니다.
 - `Vue.js`는 CDN으로 가져옵니다.
-- `jdenticon` 라이브러리도 CDN로 구성합니다.
+- `jdenticon` 라이브러리도 CDN로 구성합니다. (https://jdenticon.com)
 - https://t4ir-blockchain.github.io/jdenticon/
 
 ## 제출
